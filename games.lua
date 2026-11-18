@@ -7,7 +7,7 @@ games = {
         hasSave = false,
         supportsAdvanced = true,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/2hiyvxnx/s1.enc",
@@ -22,8 +22,8 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/2hiyvxnx/meta.json",
-                sha256 = "00fcee40cf1a475c8f2c1c5017aa36b029e9c40f9d377fb4f46b86cf6dca794f",
-                size = 342,
+                sha256 = "0995d94a582e54e68ccdd75c3581071e62e69b215afdec42285e0bca9270b99f",
+                size = 402,
             },
         },
         scripts = {
@@ -42,7 +42,7 @@ games = {
         hasSave = false,
         supportsAdvanced = true,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/gbgsxib7/s1.enc",
@@ -57,8 +57,8 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/gbgsxib7/meta.json",
-                sha256 = "444934adb1b0c50a84bddf952f4f445f67be6000556963d5828646cfa7bbaa7f",
-                size = 340,
+                sha256 = "77b076e4cf8fe7b41661d975c046f92de15b293a2fa4913778d43dba174e92ca",
+                size = 400,
             },
         },
         scripts = {
@@ -77,7 +77,7 @@ games = {
         hasSave = false,
         supportsAdvanced = true,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/wsf4jmfp/s1.enc",
@@ -92,8 +92,8 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/wsf4jmfp/meta.json",
-                sha256 = "049397dc149f4a89c953dbd5fc770c93934cd70d3701eb8a56c732834fab151b",
-                size = 594,
+                sha256 = "5b604b883944ece5d650d6ee22cce2427ee5054b1983a4683e345b2c01558abb",
+                size = 738,
             },
         },
         scripts = {
@@ -118,7 +118,7 @@ games = {
         hasSave = false,
         supportsAdvanced = false,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/qgcfhhzq/s1.enc",
@@ -128,8 +128,8 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/qgcfhhzq/meta.json",
-                sha256 = "189bb97f692efe482e7671cf15d25e1939042b8dc7faaf87afce1c51fe7da2c8",
-                size = 342,
+                sha256 = "0b27bfda629e460c0a0df686e1097bc49a7ddaf9a254d123f43300c88699776e",
+                size = 402,
             },
         },
         scripts = {
@@ -148,7 +148,7 @@ games = {
         hasSave = true,
         supportsAdvanced = false,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/cbq2bqqj/s1.enc",
@@ -158,7 +158,7 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/cbq2bqqj/meta.json",
-                sha256 = "ec6966974ff3ed8ac1c2372c4e52367768affa3155e4dc1af11654bca3e9d9db",
+                sha256 = "b456dc4d170aa7b2885831beb3f2169b9ffb6a0d2b71d58813a2b4fb45ca8576",
                 size = 914,
             },
         },
@@ -184,7 +184,7 @@ games = {
         hasSave = false,
         supportsAdvanced = false,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/izsnm7p2/s1.enc",
@@ -194,8 +194,8 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/izsnm7p2/meta.json",
-                sha256 = "02cbfb16c7a6898e65d3de2beb04d69354aa0a00a5bf30588eb180a939d803a6",
-                size = 348,
+                sha256 = "b9d6d215228354398947992bc9b3e228ea23b8ea2161610476bab6eda5d0730c",
+                size = 406,
             },
         },
         scripts = {
@@ -214,7 +214,7 @@ games = {
         hasSave = true,
         supportsAdvanced = true,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/4k4irwpj/s1.enc",
@@ -229,8 +229,8 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/4k4irwpj/meta.json",
-                sha256 = "f194bf088418d612af6d2d820ec8e9e63cac73e943d45b14ee51d00c498ab975",
-                size = 347,
+                sha256 = "d72dbf26e7d5ef649821726b1e19b16f6b2832e6322fe9af98e48e0d518d9bcf",
+                size = 407,
             },
         },
         scripts = {
@@ -249,7 +249,7 @@ games = {
         hasSave = false,
         supportsAdvanced = true,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/pghcf24y/s1.enc",
@@ -264,8 +264,8 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/pghcf24y/meta.json",
-                sha256 = "327022e88b3d946c304ad4b9baf0f07cf93c7dcddb5c487dde09b7570dd163e7",
-                size = 342,
+                sha256 = "7ef909ef9fb72679b60a9d5b019985d30ec807883510f58ae6379737a9683c82",
+                size = 402,
             },
         },
         scripts = {
@@ -284,7 +284,7 @@ games = {
         hasSave = true,
         supportsAdvanced = true,
         revoked = false,
-        expire = 1802762678,
+        expire = 1802767562,
         files = {
             script = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/ufqafgi4/s1.enc",
@@ -299,8 +299,8 @@ games = {
             },
             meta = {
                 url = "https://raw.githubusercontent.com/Maruu1/savor-content/main/ufqafgi4/meta.json",
-                sha256 = "f31805f8b00d41eb6efa8e90a966fb0cf3bc19c9906bd2e729527e518004864b",
-                size = 340,
+                sha256 = "cab10082858624b64386e8addda4e4349b471769062d5018045be1a40b9e2c1c",
+                size = 400,
             },
         },
         scripts = {
@@ -324,6 +324,6 @@ premium = {
     freeSlots = 3,
 }
 
-metaEnc = "aWnzDThF9BwOr9d0b7_epX7-9NSy009Wf9HAZKvZrrCMEDChjkYKnfCI8Ng6uzBUHlBZyjG0Zuvlv7OKyKM3hHlU9VFq3nMDYSpKx4r5Yt3xbq9FL2rSO0-G4a6dwGdRL4ukEzEby3Y1CYc0C4m83TBIAdcq8VhWmGCgUPJ_nYgXxT_P3FdywFjgLmOkhyPhda1E8u2MFN1T5tDpsMGmytov4Q6fGp6-NdyW_QTPcyyunxPd_bReHpzYVLEp4NLsN1PgMNUCGQLoOuSWGoCxH1ugTVgoO7iEVUWqxHHdX__jAKoLkVNCjq6WYsLIjDrkul4Tjnbd9tGSNQzzoN95MKRn179MR33NDnkJxm101rKkath85gQIXB6tZvkE5z81utMTYFDLfqEbpC64qZ3gZLYGvojwQ0-KLDhA3n-npscqCuA4NAGtUfkXWP5zDWiw4bxhtbM6Y1azKkLeRL3SE0zpejw1dJCzmM4uWwRrLOPEsmoDy2BqAKw5x7rQ3_SD502lc_IwakngaQUiKa2WPFVHh3jF_bRkMLWUSxTBQDyOMPgv4bRBqNw3si1YyNA2XmVLepxCWEzCA-0r5NqpHPr-QE8_5AFNYFM9sVxlzgBhCB7d8OYoZlHieA3QYAcFTCtb4oB4t9fHzMA8bvbxcjGxwtCls_Qc5SE6l5saV2HiY87WmH2ZXYimbKtgDmt1549wqtTBhiSYl-uBoQewUO1M2djQ02nvpVgWFAR4AlmrfXLQ-BeYr2LvsP-aBwiv-BhV5uMPDYDSUpGcTCKEkW6v0qAGAy3bnLZEB9XbzjfX9FXAtQz9C4c790KhW0rUjuHfWNP8FMoaixYqNPiGYMvIXVJOPEcpYhGA57mG4Z3wuG8KgOnTptVDwV0Ifv_k-qcvAg5Twew0bHMkQYfDx98aUjrMrysAANawoBuI4uGCa5bovC_DxHTjlCBwFhhxbafXr-j0Vu_EYN_UPjGY1GvAltDNt1j6K68xkmO78Wethjq1Rad3hEuGEj9hbxgioqBjJSSEI3gcs7MFLc1DJsFWEN9xolSVctT8lGaXuWdomHwDClqJ1YZZxkCqKvoUz_iwcpmTGCAYRLKnlzzF1461AkBGRbx5Ehd8Tyh6BdXG418sE1_gyT6CvfUflPrlImi6Fsn-xq-R9IaSf6wgFRq06-7uJrZxtLh6ku1ghXjF_Ekd-JsCW4VTwg7sr-eVLpwC-V829-VIkdyOcHGPI0pjF8VhfryNmuBy2TXaecR7irlbjZ3136qKZuXgrbEKz6cgZd5aMyIrg0wqrftHUkpMMBCjW7qYvcSWAy1kajcPaBWXs9TW1iAOpmrqFJNosQRaSG2r9cOoVIftGs8-P5V7IifKNayYqSSZ4SCSjrL86JLB4-kQis2cv9kTFLwfYAyjLaTO2Q_ojplbWTuPqlgO9mjAvgPFbccm6VDCuZ_4oTpXbTElNe1-ky_Hu0eELMtNZoImG_EbDdpWntNPfMXbix2v1TfS7Yk8L4SMGp-YIZMdtynqXTPmTcPyhsm1_z9lP97s5D2aSEXqqemelOGXhyjfT8ggNvSVJmmL_q95nDE0Rj9-zfwpVmjwjP3lOCIaCmjnpb01mzBsoY3mo2BHlQMf41W9KI46DXBvZoytpNjtqJw6ijbLA6PYmDkdzwEqXt8OzmDNpAXWfFhZtW4vL36UwWY2KMlh_VUgGeJ2FhQLCyNLbP8phOnGUh9jKtLmDc9n-6BNTsMU44tk3g3PzY2lFLuRMQz3IpTnoNekHX7BYSVBtn_qwLtxuaXvEedrHl04roPU5rdbeV4MNbVRrgYEBWlt8_P7jvFnZIq0vAwXyDw9F4oYpFxxEMT4NjEmRDmz3UTJikyTm8SDlPsY1AeBjhdbauWGWoCUlB7NO0YrwzJ16PjqYhJkWGbER2qgy-1S_B4o5HHg_F1AA3fxRdHG-TSkXOdISkI_Ls8JxbC0dUK5M46Msi2Vd1v4J99iKhPC2IIIextN_MfTikeq0cP2HGBMfrhXAvNFZwsR3qI3-7I4f-bRGdEy39QlHWh-4YT1Pn9u6MyEDkShCvUjAWHcdqrEeU7bYrMVfc9BV9Eb35nC4dAWlIMoT8W3u4GmbE0l6RkJ_t2Ub-gFRTNuCLShvVx_nIpgJuZh009mz0eKSl3wvgKeWpW86cu0uOw_8N1vh3ofqHxF3vTgpTGEWBRTENUpVm_zWQxeU0dFvZzbMRwYyyQvQE5YH7YMxJn7-ph19StfNrXSOff7cC5LFvsTWVCDvBzVM_3-xH2hg_Gk9PX6vJNMV7F6us3a6E93ro0LZIeIbCnYiP3ezpZlrOoXzYmGVFmmFmdugzDVIBx0KvWcnnwpf_-KwUVeVN91sHLOzE3nLJ4KZQB0Yk9XPwKDfZYGtsY_hqD9zWaLokR-0NZuujFIjivJqWFhKQ6CkNoKmqdMvoa8htAyC3nwfOKQlpMyxHPfIV-gNMFgHk-k0X4zeok680EcuORB94mQfAzxwTZm7H1roJiF3SXc9rCMPa0Kt0fPSBIkr8b9cfmHdd_IR1V3YUq3GZYKtbJuyIHFc8EbOz4bguNBTZlH2-_Qe_p39W25KTuCOwf91I5WbSEXXgOE6HG3B_WoB7HUdCIyrY1dryhFvUvHw5BGxPvio7muQD5NCBgaazLl6wpKHeAZCMSTvJNPCLOHADPv_1dKhhxt0pgCwth0C_1wfiDGXIXKeq4dH3EOpnMUM-fi8qqPjRIaRV9x_Nr36oIysK7jqg2wtG-xucR4mefVpbPgn1ZGKTPOa10s1K2x8hLQpjQUpvdujUB5yQpzywK7hagmrm9Qsur_EC-UDnCtZTKdizXefnO9NvckRSEftVZD71Uk6nWrjA985c1CILivs5cAI5AplRPCwetuMEnIIUYVq_Db64-jgxrl3p10YniZtA-nQss-IpuwvkCWzL7uwbrybXNFrzHbUnLlFdy3APaW7iSc3XBeskwARWBpZQE02Cs-2fX5323GEzPBxXQG_dhdPzq51mU9lhfMomyh42DEnCjmOIRNoax_ch43Jm6n1VIaqpx4y4SDJjgvemQXM3rrilFvh4NatlCuRNVUHTpD2f5hy4asC1hEVK8wI5roVolwmWaSs_NPjJNW7RfNYh9qCvYM-FdKEfu-Pk8JEB9r-6LpcITxWxc1_vdh51KhWwm4Nz-atdE_e9tAQgtXg70aubZ_-zoq7U2cZ1czle1sTaY_2eW9hh-a_sOEtXiw9-TFNRJ62eug7T-8_LRZIyjtCIZZeEW32vT1jEb8woiC2iP5yb2RoTYFxht8xOzhzRezcIKc1RDET--Tz16G_mK6ZtR54d_JqNWjGtDznHSnF_t1jzBi_BkfTFX3p3u8DnR1iIwmLlcjSOC3TymNJxWvgg2rXL3-89l0HZvtkndOWX3gqMW_c11ZPdb9Z_j7FEPvPUkjZ591ilrMDkYt21ReNyRpQJboo475SA5g3PyJ4gxvD3Zyr5HRU25PPwCRWZWdu1D7udI9oMhAbcau96d_x9r8NSt9mKfdz-nCE87J_9F-a6UA0p54LTul5Pe4-eOx6yYQtQVbBgZDh1_yAGUenACgatzrJqTmNEYB5FVRHpXFYzdcK0xXu8r1-DSQdOtw_EX9Ai5NDFfgEvjUTt58X3rteOiObVmjhXWR3J7_XwTlBlp3UmD5uZMW-sI"
+metaEnc = "rRYdjeuwzoyhdrekQU5H3j7vvTZ_Ais3MfxfHNkp04fkT1njCSh8ckEAlj-9J9J2bEebpwBS2G8Pgbk2dGyeUX8MvdI_9vWF5pShlMoYqEsYzLN0giEGOTHQkN17dFLrRwfYwcldtrm4XTiB0Kp5jJrRDqp0AvDLfCGD0OxD5Bj9z5vYGwZ80NBTqqg8ei3RshpgBChWoCUNELlYx7QpgAwDUDIp8-_0mrQYjHJEPpTA7n70AU2xed94wGSzWrHHc0OLf4yp3sZzbmlA03XD4bGyEK7BFM3C6WcQI37prneT1udkHTOs9XKRXFjO0iXz5RYmzt5_neEyGn09FH4Mvfh4R77XZlHQ74hMNCQwZ4nNMO-JMffkUv9IKAO-vQdvnYuuKOyUaUiLqvXlBiMwrII09n-IqRUcXJoBYSrYKCCj8xYMwMOTdCoGJpmGJ84ALrT3GY1wf4-Z1Tmcg7giVdGk-FDYYa1NsD1daa2u1i4rgpWDXFrq5gQhqiH681m6gA2aybkOZM6yys2p2GOj7tZ_R36sVv-zb15rEstS6uaWOJQo89yB7nQXIL86h1H6x5tzukOHpJk8I1nVWhvo7QYE2BrN1BiRA7UWNpIKuZfPIiJk6hDaLofvvvzCfGp2cHHsg2-_LQXjNmamCIDkGG4tATngO4cnePVWoZ89jUiDHjAy43ZvSMDKh139tpEsBPiX-TqfeRH_2vLQwB_n6BlJC9N9swvs5gP25zTWqpSVfjDsiA-lGr8ROvIKFdDcxFAUmAAwNHBqzJl7JZDkaNPktUNP9OMbCquiQxi2MyypPklaIbk-Xi8kP9V0V7351KVHskJgDPPJ2pv1LlEqUkdQqRLxU-PmwOj-YN9-uUwO_RsuaeWCxseST4okcyV74Cggv0Tb7YKb5t0VYNwrq4W-N4kXFXEr_SvP043SNnJfXrsuJKSxnBW9u00zHR2sw4v_GC5XcIXXi2LUXqXsuExLdBdjDuO0Fn9hVbUVzrzjgdMvYZR1hohrH9v1UVIDKeS1we37SymotL36N4Ga1fhnLEKxkGhJZPZY-LJVAcrAv94OqHrod5uHZRmi37F-gHash0AU2Ttzz6X0bf-90UUXclGb1QrpQhRZUt_1Dn8qZKx28WCbgW2ami2vUpudFfxI5C4ow45ttb3gwg3OhDRpwUyHhHhagEaYhlU46-zScYrnaDSPvZiyWKLHPSyJ7G3nqRrswT4dEYA9RL21DCDHYJXMYvnYYYJevqEY3SULkZRFB-n8IzDnu6vXJF8MR6cpqx2aM1f1bq7JRtlMx_HpVY1k_0vs_7tnm0nFdlcKP_o1ADPDcO-jfHnE8HAmQM9PMJq6rHmN6LQEOah5U8xGvnD-14sIUhvJ6WfCl9Wc9pLr6YnLhkaGQWA-3aN63A06SUr8I9e3QQ0zOnFEVDuJ_54mP0ii8zO3zA_Rxn82CW0RnnOVkNk527nYJO4rJU3Ev5u5it0fh12T6dYIdsKV01mF_cCXSNxl-DHHJeWVStQorbsgREixNm6IHBLiog85-wlhQ3rsGlV5kCyjxeC2qDCF9_s2v6lAu0g0soW6Rptgj-MpTlRKzyt3l6YVFeq-voyN_VmXKDA7ZEkvW8ycIF3jIpxFx6Io7-8b4yTapwSTK3oMt5E23lwTDmZ97aqve651A0EIAVR0WuOIQTFbbFHokkg5-KLKpAcx_y79WL-pCbFqx_ueJZ3DZXH3bLqoTIZ3e-AZR6-loyA8AQcj2eY4pTmQL5J1eQgXgr4BH2I801Ffk50hCN4iE_Pt_1FInBGab5MyigDtVAIgFG9niJKkJgmEAfIe6q1hVGYgO8JDTv6ErjODVbyCKffZ58GYquXQVAjtXKkDSwG2RX3NOX0wrUdv_XKPJX1_wmS-vRtz_DhynJtEidn649Eilwj26UaBNVE9IWmqmmMONUly56v44uKg6NoJaZajy8VBRlNqTMFGOB8tUjcIpCYQ1xOWhP557m3zj9pEwy0Gq6sGImvaLpoPOzFAOyoOBjQ1bia_yAagdZdbgbIl0f-pRpj-1lU43eOAYcFarxOjfIrqztxOP0OvjNqshFbQIHcfc65Sccvwfnp8iuE4FbYTWe1v4KiXZ9TbgLinMsHqRxaUmEd4jYnR6h11Wbkrj9ko8FDQHo0rUB0yWdy7Qq6MLIROUbKO0hHH8zEwAUT5_QHXa9Bfb8bkgbdhVYqmAS_o6V1PUd0sp3IUFaH2SCPZaB3Ze0i7m7SCURJ8N1a33eYkQ9ysx629FglZybIDQDfyumog2HToU-9Okb6gTxIKXu6uGLjMj470sNtyZ7qAXu-ZYTJhqKdMV1TMgaiPpOdhc3gHxBIlJropUtUrgEKaLW0Tmvnk73yCYT-JEfIMVsym_wgxnCfSvwPj3ibaej7T0Lj1VaJE604WKtXnKf1t1hMRIxff3dKfJ78ZN-SAR97JVmOamiItg3VxcHcdB_JM8qmfwbJd35yyZFRiaHRm4-a_TaRl4bLoNdK0F4SipofRZSZoMgkl8OGnrEjIjocOzLYDLhN4jxDxBtxHiy3XzkHbIjjA-xtnp3wCGiZVIWXU1uaqnlw-SRluA-3P9dA0FSQyQ7iUyhCSdnJERj4YWxPxpgHmVCWudyNTOKCdganhQp6r02200vw_LvN0r5bBVjAkzZ5nJBRQC-Gv71AxeWc4zdoJGocPkdxtajwxtEtwTTxSUM7-4k5CbiX-W_BxwogG030BCOnEWtwN2nIIGNK9WRW22OG7mnJlnJ6laTFSE0i2qbW8FDXij4FKXRcVko0PuLxe9QPhHviVV1f-VY4jGfO1961l3kL8_9vIxVk_TmsStqqe5e7ZLjtIq9FD0KyIIwbONbdvzNi-YvATf1WsEZF7HMrKnZ3pP1DQfcBTLL7d6ZmXS1YJcJm4nFPFqcbKQ9lJHAkPIzc-wPs6k8mqEf1lPrpe2rMJivtQsY5FqwaFwIhd3fKc4wI4ZxZR927DpUeT6b52Jbh9eFQdYu2yTBLRlldMVDt53pmh5KuJUB8ZgrVEs6K2P5mBnH77uYUsVKRzeopVX6FAaqkxsRXrXytuT-A27FlrVYR1DTpbE9NkxsnAIGidS9-i_DLzh55Qvt1cx2h6JbjbeBpP4dA5xnFpUM5rZ2MyNUO7BQeQgnDLXaaKjDPz7w6Nkv70SU6fr8xuW_E5Imd9CKrJn1jNzlj7DpvHW7hdgA0S2wnZh14HDpFrfW53Gvpd2E6i6KWqg2NqWkSjh3FMlg9H28x1dKkVCJpWBVg7995r4g-EAdL71Q30vws_7v_Lg2kPN1efYibxdqR7yN-NxErnTsLVtYpLxVfMO7TMsIPHG0Dd3K2EtdMHsaIZXhQtQL7zbGWeiKmnptymVakO1LWqRJ5ReJ3IG8jSAS0KAcoCs2XgP_oHMpnF7LcogG9c1OzDCmIVLt-erJrmEw1OVQB42mQ942MPrci7hCY05kz-KrF9Eysm96Enezp_lEb4FOL5eHCefObKLNBCtBoHkbKYtF-lqKhlrp26ZJOXUgdOBvFzvp7jMNDQ75ZOfEIxuGbONKddO8sgQ6HQhIbeMbdcPvtOyZpJFHMVehv6tDPa27HQzpFL1sZEQZalFK6HLedapY0nIJqvcjUcAqMVmWYMLwAJVF7JDf-Cqcq9KgyBskg8i33L6ltKoFc7HnMaYXCiFLM"
 
-shopEnc = "2dr4pVMcLdsq1MEChztW4uG7uRUx0S3LzjNRU2Mul2161ZOD0SkSp0vlrm1EqwNdVa8LYJMn8-Z2nbNyuobIam1RU9_N9L1udje3v8sZlAonh5mAQ01GJ_ehMNXbmogebWD4gvI1lru8ISzkBDZHkUSj7KcOTy9aXxZb-8BUk6DJTImJaGtgOoCZ6kohrFcAkTk1X1vABUFx8c6g4kXkmt5ltPSuQmc8UaF_QCEexwpN2VbVUv8s"
+shopEnc = "MGpNFnYiCowb5HylNVUW7Kf8exURMauFJTaRPbrCESF-TF3SLlZSEldJU_bosv1Jgk10CU1MDRen41LPDsfr6B_tiExq1KNQ-sYKax4U4-PEpy4pY8uL1S-YKp4Xx_1qJmhdO6um0klF1Bx_I3uykZwWpJ-827HL8q_RmSnVkJ-ewDfO5amzPKfC-wV_9t-PkncSycG9LB_LVP4b0tYjCYRFgXQvHMj1QPwdnv8At-etzTcYkdpj"
