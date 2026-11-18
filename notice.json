@@ -3,10 +3,10 @@
   "popup": "",
   "popupForce": false,
   "version": {
-    "latest": "1.4.28",
-    "number": 1004028,
+    "latest": "1.4.27",
+    "number": 1004027,
     "minNumber": 0,
-    "content": "v1.4.28 更新内容\n\n· 新手引导入场动效重做，整体更轻盈\n· 脚本文案统一（MOD 说明 / 使用须知）\n· 云存档路径配置修复\n· 组件下载稳定性优化\n\n这是更新弹窗的演练，看到这个弹窗说明链路正常。\n遇到问题请在群里反馈。",
+    "content": "v1.4.27 灰测版\n\n· 新手引导入场动效重做，整体更轻盈\n· 引导页文案补充权限说明\n\n遇到问题请在群里反馈。",
     "url": "https://1816411002.cdn.123clouddisk.com/1816411002/40260616|https://1816411002.share.123pan.cn/123pan/8XXqVv-AnK7A"
   }
 }
