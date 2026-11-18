@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 绝不能提交：# GitHub Token / 推送辅助脚本
+token.txt
+推送.bat
+推送命令.txt
+push_via_api.py
+# 签名私钥：绝不提交
+keys/
+*.sig
+
+# 本地备份文件：绝不提交（2026-11-12 曾误推过一份到公开仓库）
+*.bak-*
+games.json.bak*
+.publish_log.json
